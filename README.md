@@ -1,7 +1,4 @@
 <code>console.log("Hello World! I'm Carlos!")</code>
-
-
-##
 ## About Me
 <p> 
 I got to know programming during high school integrated into the IT course, there I learned about programming logic, databases, data structures, WEB development, etc... I'm currently in my final year, studying WEB development on the side in order to be a FullStack developer.
