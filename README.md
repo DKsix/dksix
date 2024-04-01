@@ -3,9 +3,12 @@
 <p> 
 I got to know programming during high school integrated into the TI course, there I learned about programming logic, databases, data structures, WEB development, etc... I am currently a full stack developer.
 <br>
-Goals: Provide problem solutions with my knowledge.
+<br>
+Goals: 
   <br>
-Always learn more!
+  - Provide problem solutions with my knowledge.
+  <br>
+  - Always learn more!
 </p>
 <p>📚 Third party integrated with TI in <a href="https://portal.ifba.edu.br/euclides-da-cunha" target="blank_">IFBA</a> </p>
 <p>👾 Student of <a href="https://www.rocketseat.com.br" target="blank_">Rocketseat</a></p>
