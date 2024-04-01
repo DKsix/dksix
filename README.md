@@ -13,4 +13,9 @@ Always learn more!
 <p><img width="16" height="15" margin-left="10px" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'> Studying React</p>
 <hr>
 
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksix&layout=compact&theme=dark)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
