@@ -21,4 +21,4 @@ Goals:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksix&layout=compact&theme=dark)
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css,mysql,)](https://skillicons.dev)
