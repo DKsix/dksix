@@ -10,7 +10,7 @@ Goals:
   <br>
   - Always learn more!
 </p>
-<p>📚 Third party integrated with TI in <a target=_blank href="https://portal.ifba.edu.br/euclides-da-cunha" target="blank_">IFBA</a> </p>
+<p>📚 Third party integrated with TI in <a target='_blank' href="https://portal.ifba.edu.br/euclides-da-cunha" target="blank_">IFBA</a> </p>
 <p>👾 Student of <a target=_blank href="https://www.rocketseat.com.br" target="blank_">Rocketseat</a></p>
 <p>👨‍💻 Full Stack Developer</p>
 <p><img width="16" height="15" margin-left="10px" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'> Studying React</p>
